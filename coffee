@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v6.1.12, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v6.1.12, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo5.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Приклад 1 (Кав'ярня)</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Mako:400&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mako:400&display=swap"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=hOSNKB"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=hOSNKB" type="text/css">
+
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="header16 cid-vhYR2r0Icf mbr-fullscreen mbr-parallax-background" id="header17-d">
+  
+  
+  <div class="container-fluid">
+    <div class="row">
+      <div class="content-wrap col-12 col-md-12">
+        <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">Місце твого спокою</h1>
+        
+        <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7"><em>Відклади справи на потім. Насолоджуйся моментом у супроводі ароматної кави та свіжих круасанів</em></p>
+        <div class="mbr-section-btn"><a class="btn btn-white-outline display-7" href="https://mobiri.se">Знайти нас на мапі</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="features13 start cid-vhYR2r9ZWt" id="features013-e">
+    
+
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-12 content-head">
+      
+    </div>
+  </div>
+  <div class="row mbr-section-content">
+    <div class="item features-image col-6 col-md-4 col-lg-4">
+      <div class="item-wrapper">
+        <div class="item-img">
+          <img src="assets/images/d0bad0bed184d0b520d0b7d0b5d180d0bdd0be201-883x883.jpg" alt="Mobirise Website Builder" title="" data-slide-to="0" data-bs-slide-to="0">
+        </div>
+        <div class="item-content align-left mt-3">
+          <h5 class="item-title mbr-fonts-style mb-3 display-7">
+            <strong>Зерно</strong><strong><br></strong></h5>
+          <h6 class="item-subtitle mbr-fonts-style mb-3 display-7">
+            Тільки 100% арабіка с<br>віжого обсмаження</h6>
+          
+        </div>
+        
+      </div>
+    </div>
+    <div class="item features-image col-6 col-md-4 col-lg-4">
+      <div class="item-wrapper">
+        <div class="item-img">
+          <img src="assets/images/-1.webp" alt="Mobirise Website Builder" title="" data-slide-to="1" data-bs-slide-to="1">
+        </div>
+        <div class="item-content align-left mt-3">
+          <h5 class="item-title mbr-fonts-style mb-3 display-7"><strong>Затишок</strong></h5>
+          <h6 class="item-subtitle mbr-fonts-style mb-3 display-7">
+            Зручні крісла, швидкий Wi-Fi та багато рослин</h6>
+          
+        </div>
+        
+      </div>
+    </div>
+    <div class="item features-image col-6 col-md-4 col-lg-4">
+      <div class="item-wrapper">
+        <div class="item-img">
+          <img src="assets/images/d184d0bed182d0be20d0bbd18ed0b4d0b820d0bad0bed184d0b5-883x883.jpg" alt="Mobirise Website Builder" title="" data-slide-to="2" data-bs-slide-to="2">
+        </div>
+        <div class="item-content align-left mt-3">
+          <h5 class="item-title mbr-fonts-style mb-3 display-7">
+            <strong>Люди</strong></h5>
+          <h6 class="item-subtitle mbr-fonts-style mb-3 display-7">
+            Ми знаємо ім'я наших постійних гостей</h6>
+          
+        </div>
+        
+      </div>
+    </div>
+    
+    
+    
+
+  </div>
+</div>
+</section>
+
+<section data-bs-version="5.1" class="timeline02 cid-vhYR2rk8zy" id="timeline02-f">
+  
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 mb-5 content-head">
+        <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Маленькі ритуали для великого дня</strong></h3>
+        <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4 display-7">Ми відібрали позиції, які наші гості люблять найбільше. Від класичного допіо до десертів, що тануть у роті</h5>
+      </div>
+    </div>
+    
+    <div class="row justify-content-center item features-without-image active">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"><strong>Напої</strong></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Капучино - 65 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Класичний баланс насиченого еспресо, гарячого молока та густої молочної піни</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d09ad0b0d0bfd183d187d0b8d0bdd0be-275x183.jpg" alt="Mobirise Website Builder" data-slide-to="1" data-bs-slide-to="1">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Лате - 70 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Ніжний кавовий напій з великою кількістю збитого молока та легкою пінкою</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d09bd0b0d182d0b5-278x181.jpg" alt="Mobirise Website Builder" data-slide-to="2" data-bs-slide-to="3">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Айс-кава - 75 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Освіжаючий кавовий мікс із льодом, що чудово бадьорить у спекотну погоду</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d090d0b9d181-d0bad0b0d0b2d0b0-290x174.jpg" alt="Mobirise Website Builder" data-slide-to="2" data-bs-slide-to="3">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Еспресо - 35 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Міцна та концентрована чорна кава з вираженим ароматом — ідеальний заряд енергії</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d095d181d0bfd180d0b5d181d0be-275x183.jpg" alt="Mobirise Website Builder" data-slide-to="3" data-bs-slide-to="4">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Ягідний чай - 60 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Натуральний вітамінний напій на основі лісових ягід із приємною кислинкою</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d0afd0b3d196d0b4d0bdd0b8d0b920d187d0b0d0b9-236x214.jpg" alt="Mobirise Website Builder" data-slide-to="4" data-bs-slide-to="5">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7">Перекуси та десерти</p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Брауні - 65 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Насичений шоколадний десерт із вологою текстурою, який тане в роті</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d091d180d0b0d183d0bdd196-290x174.jpg" alt="Mobirise Website Builder" data-slide-to="5" data-bs-slide-to="5">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Чізкейк - 80 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Класичний сирний десерт на хрусткій пісочній основі з ніжним вершковим смаком</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d0a7d196d0b7d0bad0b5d0b9d0ba-284x177.jpg" alt="Mobirise Website Builder" data-slide-to="6" data-bs-slide-to="6">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Макарун — 35 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Витончене французьке печиво-безе з легкою хрусткою скоринкою та м’якою начинкою</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d09cd0b0d0bad0b0d180d183d0bd-269x188.jpg" alt="Mobirise Website Builder" data-slide-to="8" data-bs-slide-to="8">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Тірамісу — 85 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Вишуканий італійський багатошаровий десерт із нотками кави та ніжним кремом маскарпоне</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d0a2d196d180d0b0d0bcd196d181d183-225x225.jpg" alt="Mobirise Website Builder" data-slide-to="9" data-bs-slide-to="9">
+        </div>
+      </div>
+    </div><div class="row justify-content-center item features-without-image">
+      <div class="col-12 col-lg">
+        <p class="mbr-card-subtitle mbr-fonts-style mt-0 mb-2 display-7"></p>
+        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-2 display-5"><strong>Круасан з шоколадом - 60 ₴</strong></h5>
+        <p class="mbr-text mbr-fonts-style mt-0 display-7">
+          Хрустка випічка з листкового тіста з щедрою порцією солодкого шоколаду всередині</p>
+      </div>
+      <div class="col-md-12 col-lg-4 item-wrapper">
+        <div class="image-wrapper mb-5">
+          <img src="assets/images/d09ad180d183d0b0d181d0b0d0bd-d0b7-d188d0bed0bad0bed0bbd0b0d0b4d0bed0bc-750x588.jpg" alt="Mobirise Website Builder" data-slide-to="10" data-bs-slide-to="10">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery4 cid-vhYR2rA2cb" id="gallery04-h">
+  
+  
+  <div class="container-fluid gallery-wrapper">
+    <div class="row justify-content-center">
+      <div class="col-12 content-head">
+        <div class="mbr-section-head mb-5">
+          <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Затишок у деталях</strong></h4>
+          <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4 display-7">Ми створили простір, де час сповільнюється, а аромат свіжої кави стає кращим супроводом для ваших думок. Кожен куточок нашої кав’ярні — це історія про спокій та натхнення</h5>
+        </div>
+      </div>
+    </div>
+    <div class="grid-container">
+      <div class="grid-container-1" style="transform: translate3d(-200px, 0px, 0px);">
+        <div class="grid-item">
+          <img src="assets/images/d184d0bed182d0be20d0bad0b0d184d0b5202-921x614.jpg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/d184d0bed182d0be20d0bad0b0d184d0b5201-921x613.jpg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/d184d0bed182d0be20d0bad0b0d184d0b5203-921x1381.jpg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/-7.webp" alt="Mobirise Website Builder">
+        </div>
+      </div>
+      <div class="grid-container-2" style="transform: translate3d(-70px, 0px, 0px);">
+        <div class="grid-item">
+          <img src="assets/images/-6.webp" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/d184d0bed182d0be20d0bad0b0d184d0b5204-921x614.jpg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/-5.webp" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="assets/images/-8.webp" alt="Mobirise Website Builder">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="people02 cid-vhYR2rHrQ0" id="people02-i">
+	
+
+	
+	
+	<div class="container">
+		<div class="row mb-5 justify-content-center">
+			<div class="col-12 content-head">
+				<h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Ваші теплі слова, що зігрівають нас більше за каву</strong></h3>
+				
+			</div>
+		</div>
+		<div class="row">
+				<div class="item features-without-image col-12 col-md-6 col-lg-4 mb-5">
+					<div class="item-wrapper">
+						<div class="card-box align-center">
+							<div class="iconfont-wrapper mb-3">
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+							</div>
+							<h5 class="card-title mbr-fonts-style mb-3 display-7">«Тут якась особлива магія. Можна просто сидіти біля вікна, дивитися на дощ і пити свій лате. Відчуття, ніби ти в гостях у кращого друга»</h5>
+							<p class="card-text mbr-fonts-style mb-0 display-7"><strong><em>
+								Анна, постійна гостя
+							</em></strong></p>
+						</div>
+					</div>
+				</div>
+				<div class="item features-without-image col-12 col-md-6 col-lg-4 mb-5">
+					<div class="item-wrapper">
+						<div class="card-box align-center">
+							<div class="iconfont-wrapper mb-3">
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri" style="color: rgb(100, 86, 0); fill: rgb(100, 86, 0);"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+							</div>
+							<h5 class="card-title mbr-fonts-style mb-3 display-7">«Найкраще місце в районі, щоб попрацювати з ноутбуком. Швидкий інтернет, багато розеток і, що найголовніше — бариста знають, коли мені треба ще один допіо без зайвих питань»</h5>
+							<p class="card-text mbr-fonts-style mb-0 display-7"><strong><em>
+								Максим, фрілансер
+							</em></strong></p>
+						</div>
+					</div>
+				</div>
+				<div class="item features-without-image col-12 col-md-6 col-lg-4 mb-5">
+					<div class="item-wrapper">
+						<div class="card-box align-center">
+							<div class="iconfont-wrapper mb-3">
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+								<span class="mbr-iconfont mobi-mbri-star mobi-mbri"></span>
+							</div>
+							<h5 class="card-title mbr-fonts-style mb-3 display-7">«Обожнюю ваші лимонні тарти! А кава завжди правильної температури — можна пити одразу, не чекаючи. Дякую за сервіс і посмішки»</h5>
+							<p class="card-text mbr-fonts-style mb-0 display-7"><strong><em>
+								Олена, поціновувачка десертів
+							</em></strong></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		<div class="row mt-0 mt-md-5">
+			
+		</div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="contacts02 map1 cid-vhYR2rWcVk" id="contacts02-j">
+
+    
+
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 content-head">
+                <div class="mbr-section-head mb-5">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Де нас знайти?</strong></h3>
+                    <h4 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4 display-5">Ваша щоденна порція енергії зовсім поруч</h4>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="card col-12 col-md-12 col-lg-6">
+                <div class="card-wrapper">
+                    <div class="text-wrapper">
+                        
+                        <ul class="list mbr-fonts-style display-7">
+                            <li class="mbr-text item-wrap">Локація: м. Київ, вул. Перемоги, 205</li><li class="mbr-text item-wrap">Графік: Щодня з 08:00 до 21:00</li><li class="mbr-text item-wrap">Phone: +380 (55) 984 39 21</li>
+                            <li class="mbr-text item-wrap">Email: coffee.mood@info.com</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="map-wrapper col-md-12 col-lg-6">
+                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6045.3003145248895!2d-73.9884657!3d40.7477229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9ac1f1b85%3A0x7e33d1c0e7af3be4!2zMzUwIDV0aCBBdmUsIE5ldyBZb3JrLCBOWSAxMDExOCwg0KHQqNCQ!5e0!3m2!1sru!2sru!4v1689597362021!5m2!1sen!2sen" allowfullscreen=""></iframe></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer2 cid-vhYZuLzuwS" once="footers" id="footer02-p">
+    
+
+    
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 center mt-2 mb-3">
+                <p class="mbr-fonts-style copyright mb-0 display-7">
+                    © Copyright 2030 hair-lab - All Rights Reserved
+                </p>
+            </div>
+            <div class="col-12 col-lg-6 center">
+                <div class="row-links mt-2 mb-3">
+                    <ul class="row-links-soc">
+                        
+                        
+                        
+                        
+                    <li class="row-links-soc-item mbr-fonts-style display-7">
+                            <a href="#" class="text-primary">Instagram</a>
+                        </li><li class="row-links-soc-item mbr-fonts-style display-7">
+                            <a href="#" class="text-primary">TikTok</a>
+                        </li><li class="row-links-soc-item mbr-fonts-style display-7">
+                            <a href="#" class="text-primary">YouTube</a>
+                        </li><li class="row-links-soc-item mbr-fonts-style display-7">
+                            <a href="#" class="text-primary">Twitter</a>
+                        </li></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">&#8204;</p><a style="z-index:1" href="https://mobirise.com/drag-drop-website-builder.html">Drag & Drop Website Builder</a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/scrollgallery/scroll-gallery.js"></script>  <script src="assets/theme/js/script.js"></script>  
+  
+  
+</body>
+</html>
